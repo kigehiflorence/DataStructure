@@ -1,0 +1,44 @@
+*{
+    background-color:aqua;
+    opacity:1;
+}
+.content{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+h2{
+    color: rgb(125, 207, 31);
+}
+
+ul{
+    background: none;
+}
+
+
+.topBar{
+   display: flex;
+   justify-content: end;
+   text-decoration: none;
+   background-color: black;
+}
+
+.topAppBar{
+    justify-content: end;
+    text-decoration: none;
+    
+}
+ li{
+    padding-left: 20px;
+    
+ }
+
+.topBarList{
+    text-decoration: none;
+    justify-content: end;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 20px;
+   
+}
